@@ -8,9 +8,7 @@ url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove str
 username: jmin0628
 user_title: jmin0628 - FrontEnd
 email: jmin0628@naver.com
-twitter_username: loremipsum
 github_username:  jmin0628
-gplus_username:  loremipsum
 linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
 disqus_username: jmin0628
 profile_picture: https://pbs.twimg.com/profile_images/1042719734548971521/YzZmbigw_400x400.jpg
