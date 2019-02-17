@@ -2,7 +2,7 @@
 title: jmin0628 - Web Developer
 description: "A blog about lorem ipsum ..."
 baseurl: "/space-jekyll-template" # for test: remove string '/space-jekyll-template' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://jmin0628.github.io'
+url: "https://jmin0628.github.io/space-jekyll-template/" # for test: remove string 'https://jmin0628.github.io' to '' but in production: 'https://jmin0628.github.io'
 
 # User settings
 username: jmin0628
