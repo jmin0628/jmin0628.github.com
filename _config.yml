@@ -31,7 +31,7 @@ links:
     - title: home
       url: /
       key_trigger: 1
-    - title: my posts
+    - title: 한글
       url: /posts
       key_trigger: 2
     - title: series
