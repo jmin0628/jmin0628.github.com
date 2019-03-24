@@ -57,8 +57,8 @@ links:
 
 # projects in header index
 projects:
-  - name: fluany
-    url: https://github.com/fluany/fluany
+  - name: swh
+    url: http://swhacademy.ga:8081/#/
   - name: vim-frontend
     url: https://github.com/victorvoid/vim-frontend
   - name: generator-capybara
